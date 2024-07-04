@@ -7,10 +7,6 @@ In this project, I analyzed customer purchases and orders across different count
 - Importing the data by running the script on the sql workbench.
 - There are 8 tables which will be added post running the script in the newly created schema
         
-Charts
-
-![Charts](https://github.com/prakashkathait/LA-Crime-Rate-Pandas/assets/166843819/997a90ce-5918-4148-a08a-5e7444624b35)
-
 ### Questions raised from the analysis 
 
 -Q1. Calculate the average order amount of each country?
