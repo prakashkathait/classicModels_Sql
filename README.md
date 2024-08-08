@@ -1,6 +1,6 @@
 # SQL- Classic Model 
 
-In this project, I analyzed customer purchases and orders across different countries to evaluate the revenue generated for the company. The analysis focused on various product types and assessed the associated profit or loss. Key insights include identifying the most sold product, understanding customer payment statuses, and analyzing customer order rates.
+In this project , I analyzed customer purchases and orders across different countries to evaluate the revenue generated for the company. The analysis focused on various product types and assessed the associated profit or loss. Key insights include identifying the most sold product, understanding customer payment statuses, and analyzing customer order rates.
 
 ### Steps followed 
 
